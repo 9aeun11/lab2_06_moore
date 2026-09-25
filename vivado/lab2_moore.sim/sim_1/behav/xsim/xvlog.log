@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_06_moore/src/moore_cycle.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module moore_cycle
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/gaeun/Desktop/lab2_06_moore/sim/tb_moore_cycle.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_moore_cycle
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_06_moore/vivado/lab2_moore.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
